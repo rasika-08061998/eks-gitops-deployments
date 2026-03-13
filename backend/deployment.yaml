@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: 528757804354.dkr.ecr.ap-south-1.amazonaws.com/python-microservice-app:98c256e
+          image: 528757804354.dkr.ecr.ap-south-1.amazonaws.com/python-microservice-app:96c1153
 
           ports:
             - containerPort: 8000
