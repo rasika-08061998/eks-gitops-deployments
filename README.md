@@ -316,6 +316,8 @@ Metrics monitored include:
 
 ---
 
+![Project Architecture](docs/Project_Architecture.png)
+
 # 🧹 Cleanup (Stop AWS Costs)
 
 To destroy the infrastructure and stop AWS billing:
